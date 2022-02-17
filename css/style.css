@@ -3,12 +3,6 @@
 @import url(./fonts.css);
 
 
-/* css variables */ 
-@import url(./partials/_variables.css);
-
-/* import global styling */ 
-@import url(./partials/_global.css);
-
 
 /* start navigation */ 
 
